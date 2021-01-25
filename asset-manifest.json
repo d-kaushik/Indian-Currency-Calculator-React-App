@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Indian-Currency-Calculator-React-App/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/Indian-Currency-Calculator-React-App/static/js/main.69356f74.chunk.js",
+    "main.js.map": "/Indian-Currency-Calculator-React-App/static/js/main.69356f74.chunk.js.map",
+    "runtime-main.js": "/Indian-Currency-Calculator-React-App/static/js/runtime-main.07b78e5b.js",
+    "runtime-main.js.map": "/Indian-Currency-Calculator-React-App/static/js/runtime-main.07b78e5b.js.map",
+    "static/js/2.324a40a3.chunk.js": "/Indian-Currency-Calculator-React-App/static/js/2.324a40a3.chunk.js",
+    "static/js/2.324a40a3.chunk.js.map": "/Indian-Currency-Calculator-React-App/static/js/2.324a40a3.chunk.js.map",
+    "static/js/3.7818ce78.chunk.js": "/Indian-Currency-Calculator-React-App/static/js/3.7818ce78.chunk.js",
+    "static/js/3.7818ce78.chunk.js.map": "/Indian-Currency-Calculator-React-App/static/js/3.7818ce78.chunk.js.map",
+    "index.html": "/Indian-Currency-Calculator-React-App/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/Indian-Currency-Calculator-React-App/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.324a40a3.chunk.js.LICENSE.txt": "/Indian-Currency-Calculator-React-App/static/js/2.324a40a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07b78e5b.js",
+    "static/js/2.324a40a3.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.69356f74.chunk.js"
+  ]
+}
